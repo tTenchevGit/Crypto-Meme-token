@@ -62,7 +62,8 @@ footer {
 
 
 .nav-icon img {
-    margin: 0 20px;
+    margin: 10px 20px 10px 20px;
+   
     width: 60px; 
     height: 60px; 
     border-radius: 50%;
